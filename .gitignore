@@ -1,0 +1,17 @@
+*.pyc
+*~
+.*.sw[op]
+*.egg-info
+dist
+build
+local
+local.properties
+distribute-*
+tests/temp
+/org
+/docs/_build
+.project
+.pydevproject
+tests/tmp*
+.cache/
+macos/
