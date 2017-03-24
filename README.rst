@@ -15,7 +15,7 @@ Briefcase can be used to wrap this as a standalone app under macOS::
     $ mkdir liquid
     $ virtualenv --python=$(which python3)
     $ pip install briefcase
-    $ git checkout http://github.com/pybee/liquid-demo.git
+    $ git clone http://github.com/pybee/liquid-demo.git
     $ cd liquid-demo
     $ python setup.py macos
 
