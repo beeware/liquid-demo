@@ -43,7 +43,7 @@ Why "Liquid"?
 Community
 ---------
 
-VOC is part of the `BeeWare suite`_. You can talk to the community through:
+Liquid is part of the `BeeWare suite`_. You can talk to the community through:
 
 * `@pybeeware on Twitter`_
 
@@ -55,17 +55,13 @@ We foster a welcoming and respectful community as described in our
 Contributing
 ------------
 
-To get started with contributing to VOC, head over to our `First Timers Guide`_.
-
-If you experience problems with VOC, `log them on GitHub`_. If you
+If you experience problems with Liquid, `log them on GitHub`_. If you
 want to contribute code, please `fork the code`_ and `submit a pull request`_.
 
 .. _BeeWare suite: http://pybee.org
-.. _Read The Docs: https://voc.readthedocs.io
 .. _@pybeeware on Twitter: https://twitter.com/pybeeware
 .. _pybee/general: https://gitter.im/pybee/general
 .. _BeeWare Community Code of Conduct: http://pybee.org/community/behavior/
-.. _First Timers Guide: http://pybee.org/contributing/how/first-time/what/voc/
-.. _log them on Github: https://github.com/pybee/voc/issues
-.. _fork the code: https://github.com/pybee/voc
-.. _submit a pull request: https://github.com/pybee/voc/pulls
+.. _log them on Github: https://github.com/pybee/liquid-demo/issues
+.. _fork the code: https://github.com/pybee/liquid-demo
+.. _submit a pull request: https://github.com/pybee/liquid-demo/pulls
