@@ -13,6 +13,7 @@ Usage
 Briefcase can be used to wrap this as a standalone app under macOS::
 
     $ mkdir liquid
+    $ cd liquid
     $ python3 -m venv venv
     $ source ./venv/bin/activate.bash  # Adjust accordingly for you shell.
     $ python -m pip install briefcase
