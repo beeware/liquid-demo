@@ -22,7 +22,9 @@ Briefcase can be used to wrap this as a standalone app under macOS::
     $ python setup.py macos
 
 This will create a macOS directory that will contain "GitHub.app".
-This app file can be placed in your Applications folder,
+This app file can be placed in your Applications folder. It can also be sent
+to another user safe in the knowledge that it will also run on their machine -
+the application is entirely self-contained.
 
 Modificatons
 ------------
