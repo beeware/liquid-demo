@@ -17,7 +17,7 @@ Briefcase can be used to wrap this as a standalone app under macOS::
     $ python3 -m venv venv
     $ source ./venv/bin/activate.bash  # Adjust accordingly for you shell.
     $ python -m pip install briefcase
-    $ git checkout http://github.com/pybee/liquid-demo.git
+    $ git clone https://github.com/pybee/liquid-demo.git
     $ cd liquid-demo
     $ python setup.py macos
 
